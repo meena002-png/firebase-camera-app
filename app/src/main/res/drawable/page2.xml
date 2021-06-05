@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:height="30dp" android:width="25dp" android:gravity="center">
+        <shape android:shape="oval">
+            <solid android:color="@color/black"/>
+            <size android:height="2dp"
+                android:width="2dp"></size>
+        </shape>
+    </item>
+
+    <item android:width="50dp" android:height="50dp">
+        <inset android:drawable="@drawable/ic_baseline_restore_page_24" android:visible="true">
+
+        </inset>
+    </item>
+</layer-list>

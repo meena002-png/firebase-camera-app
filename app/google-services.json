@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "817661096932",
+    "firebase_url": "https://milk-seller-c5f41-default-rtdb.firebaseio.com",
+    "project_id": "milk-seller-c5f41",
+    "storage_bucket": "milk-seller-c5f41.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:817661096932:android:5faabe6508490d92348df1",
+        "android_client_info": {
+          "package_name": "com.indev.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "817661096932-m09iocraig9g1l11ljgn3avdl32b1lb6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJnXa_sXGlq4ubj8xB0mP9yiQ92tvdusk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "817661096932-m09iocraig9g1l11ljgn3avdl32b1lb6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
